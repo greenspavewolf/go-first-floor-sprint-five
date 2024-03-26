@@ -1,7 +1,5 @@
 package main
 
-git trouble
-
 import (
 	"fmt"
 	"math"
